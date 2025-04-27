@@ -1,5 +1,7 @@
 # Battleship-Roguelite-Game
 
+CSIS 297 C++ Project
+
 A terminal-based endless Battleship game built in C++.  
 Start with limited resources and fight through as many stages as you can — earning money, buying upgrades, and pushing for the highest score in a single run.
 
